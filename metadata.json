@@ -1,0 +1,7 @@
+{
+  "name": "Admin Post Portal for Google Sites",
+  "description": "A sophisticated content management system designed for Google Sites embedding. Allows administrators to upload images, create AI-enhanced posts, and manage a professional content feed.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
